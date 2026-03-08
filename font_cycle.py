@@ -28,7 +28,6 @@ font_paths = [
     "fonts/Lobster-Regular.ttf",
     "fonts/Outfit-Regular.ttf",
     "fonts/Pacifico-Regular.ttf",
-    "fonts/PressStart2P.ttf",
     "fonts/Quantico.ttf",
     "fonts/Rajdhani.ttf",
     "C:/Windows/Fonts/arial.ttf",         
